@@ -412,7 +412,7 @@ const arr = ['Tumhe Ek Baat Bataun', 'Sach Me Jaan na hai kya😂', 'Chalo phir 
 for(let i = 0; i < arr.length; i++){
     alert(arr[i])
 }
-alert(`Kya tum apna Surname ${yourName} ${yourLastName} se ${yourName} ${surname} karna chahogi 🥰`);
+alert(`Kya tum apna Surname, ${yourLastName} se ${yourName} ${surname} karna chahogi 🥰`);
 
 
 
