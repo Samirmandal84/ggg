@@ -405,7 +405,7 @@ if(Mark.calcBMI > John.calcBMI){
 
 const yourName = prompt(`What's Your First Name? 😁`);
 const yourLastName = prompt(`What's Your Last Name? 🙃`);
-const upper = yourName.toUppercase
+const upper = yourName.toUppercase();
 const surname = "GUPTA"
 
 const arr = ['Tumhe Ek Baat Bataun', 'Sach Me Jaan na hai kya😂', 'Chalo phir bata deta hoon🥹']
